@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Inspired by https://www.youtube.com/watch?v=sBws8MSXN7A, but with the version create-react-app used, they stopped using the class keyword and instead use functions that return JSX.
 
 ## Available Scripts
 
